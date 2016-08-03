@@ -14,6 +14,7 @@ organized? How would branches help?
 	Any experimental change done to the repository can be easily reverted back using the branch.
 
 How do the diagrams help you visualize the branch structure?
+	Without a diagrams, it is very difficult to understand the connectivity of various commits. With a visual representation, the ordering of commits can be easily understood.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
